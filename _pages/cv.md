@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<em>Updated:</em> Jan 11, 2020
+<em>Updated:</em> March 5 2021
 
 <object data="https://laumiulun.github.io/files/CV_03-05-21.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://laumiulun.github.io/files/CV_03-05-21.pdf">
