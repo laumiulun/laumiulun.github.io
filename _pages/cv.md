@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-<em>Updated:</em> March 5 2021
+<em>Updated:</em> August 5 2021
 
-<object data="https://laumiulun.github.io/files/CV_03-05-21.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://laumiulun.github.io/files/CV_03-05-21.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://laumiulun.github.io/files/CV_03-05-21.pdf">Download PDF</a>.</p>
+<object data="https://laumiulun.github.io/files/CV_08_05_21.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://laumiulun.github.io/files/CV_08-05-21.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://laumiulun.github.io/files/CV_08-05-21.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 <!--
