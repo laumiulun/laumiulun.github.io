@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV & Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,13 +9,31 @@ redirect_from:
 
 {% include base_path %}
 
-<em>Updated:</em> August 5 2021
+<em>Updated:</em> April 5 2022
 
-<object data="https://laumiulun.github.io/files/CV_08_05_21.pdf" type="application/pdf" width="700px" height="700px">
+<!-- <object data="https://laumiulun.github.io/files/CV_08_05_21.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://laumiulun.github.io/files/CV_08-05-21.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://laumiulun.github.io/files/CV_08-05-21.pdf">Download PDF</a>.</p>
     </embed>
-</object>
+</object> -->
+
+Resume:
+<div id="pdf" style="width: 100%; height: 100%;">
+    <iframe src="https://laumiulun.github.io/files/Resume_04-05-22.pdf" style="width: 100%; height: 100%;" frameborder="0" scrolling="no">
+        <p>It appears your web browser doesn't support iframes.</p>
+    </iframe>
+</div>
+
+
+CV: 
+<div id="pdf" style="width: 100%; height: 100%;">
+    <iframe src="https://laumiulun.github.io/files/CV_08_05_21.pdf" style="width: 100%; height: 100%;" frameborder="0" scrolling="no">
+        <p>It appears your web browser doesn't support iframes.</p>
+    </iframe>
+</div>
+
+
+
 <!--
 Education
 ======
