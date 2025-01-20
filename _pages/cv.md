@@ -9,18 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-<em>Updated:</em> April 20 2022
+<em>Updated:</em> April
 
 Resume:
 <div>
   <object
-    data="https://laumiulun.github.io/files/Resume_04-20-22.pdf"
+    data="https://laumiulun.github.io/files/Resume_01_19_25.pdf"
     type="application/pdf"
     width="500"
     height="678"
   >
   <iframe
-    src="https://laumiulun.github.io/files/Resume_04-20-22.pdf"
+    src="https://laumiulun.github.io/files/Resume_01_19_25.pdf"
     width="500"
     height="678"
   >
@@ -29,8 +29,8 @@ Resume:
   </object>
 </div>
 
-
-CV: 
+<!--
+CV:
 <div>
   <object
     data="https://laumiulun.github.io/files/CV_08_05_21.pdf"
@@ -46,7 +46,7 @@ CV:
   <p>This browser does not support PDF!</p>
   </iframe>
   </object>
-</div>
+</div> -->
 
 
 
