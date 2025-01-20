@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<em>Updated:</em> April
+<em>Updated:</em> January 19, 2025
 
 Resume:
 <div>
