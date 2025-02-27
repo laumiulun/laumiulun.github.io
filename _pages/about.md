@@ -12,7 +12,7 @@ redirect_from:
 
 <!-- I am currently Senior Scientist at BAE Systems Inc., I bring extensive experience in Python, machine learning development, and ML DevOps methodologies, honed through my doctoral studies at Boise State University in Computing. My primary focus revolves around spearheading algorithmic advancements and machine learning innovations tailored for defense technology challenges. Leveraging state-of-the-art research code, I specialize in developing robust algorithms within extreme environments, seamlessly integrating solutions. Additionally, my expertise encompasses a wide array of domains, including Finite Element Modeling (FEM), Phasefield, and Molecular Dynamics, all seamlessly integrated into machine learning frameworks. Whether working independently or collaboratively within a team, I am dedicated to delivering cutting-edge solutions with efficiency and confidence -->
 
-I am currently Senior Scientist at BAE Systems Inc, focusing on Machine Learning and Multi-Agent applications into Operations Analysis. Currently my interest is in developing useful and interesting tools coupled with AI agents.
+I am currently Principial Scientist at BAE Systems Inc, focusing on Machine Learning and Multi-Agent applications into Operations Analysis. Currently my interest is in developing useful and interesting tools using AI agents.
 
 During my graduate school career, I specialized in application of AI to assist in analysis of physical models with the likes of Finite Element Method (FEM), Phasefield, and Molecular Dynamics.
 
