@@ -9,18 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-<em>Updated:</em> January 19, 2025
+<em>Updated:</em> March 31, 2026
 
 Resume:
 <div>
   <object
-    data="https://laumiulun.github.io/files/Resume_01_19_25.pdf"
+    data="https://laumiulun.github.io/files/Resume_03_31_26.pdf"
     type="application/pdf"
     width="500"
     height="678"
   >
   <iframe
-    src="https://laumiulun.github.io/files/Resume_01_19_25.pdf"
+    src="https://laumiulun.github.io/files/Resume_03_31_26.pdf"
     width="500"
     height="678"
   >

@@ -1,3 +1,6 @@
 _site/
 _markdown_generator/*
 node_modules
+vendor
+.DS_Store
+Gemfile.lock
